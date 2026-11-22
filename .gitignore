@@ -1,0 +1,16 @@
+# Secrets: Gmail app password for the contact form (see server/mail-config.example.php)
+server/mail-config.php
+mail-config.php
+
+# Large / generated files
+screenshots/
+screenshots.zip
+*.zip
+
+# OS / editor clutter
+.DS_Store
+**/.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
